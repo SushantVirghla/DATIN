@@ -1,0 +1,5 @@
+# Ignore virtual environment
+myenv/
+.env
+Backend/API/__pycache__
+Backend/API/API.env

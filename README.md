@@ -1,2 +1,2 @@
-# DATIN
-Decentralized AI Threat Intelligence System, this project is underdevelopment 
+# datin-notfinal
+test repo for UIP project 
